@@ -1,4 +1,4 @@
-## Hi there 👋
+# Minerals Cloud
 
 <!--
 
@@ -10,8 +10,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
-# <img src=https://megaease.com/favicon.png width=32px align=center> MegaEase 
 
 [![](https://img.shields.io/twitter/follow/megaease?style=social)](https://twitter.com/MineralsCloud) 
 [![](https://img.shields.io/badge/Contact_Us-green.svg)](mailto:mineralscloud@protonmail.com)

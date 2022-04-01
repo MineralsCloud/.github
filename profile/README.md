@@ -5,8 +5,8 @@
 [![](https://img.shields.io/twitter/follow/MineralsCloud?style=social)](https://twitter.com/MineralsCloud)
 [![](https://img.shields.io/badge/Contact_Us-green.svg)](mailto:mineralscloud@protonmail.com)
 
-We are a research team at Columbia University in the City of New York.
-Our Principal Investigator is Renata M. Wentzcovitch.
+We are a research team at [Columbia University in the City of New York](https://www.columbia.edu/).
+Our Principal Investigator is [Renata M. Wentzcovitch](https://www.apam.columbia.edu/faculty/renata-wentzcovitch).
 Our research is devoted to computational quantum mechanical studies of materials at extreme conditions, especially planetary materials. We address electronic, structural, and vibrational properties from a fundamental and inter-related perspective.
 
 Our current research interests include:

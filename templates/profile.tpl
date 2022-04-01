@@ -4,15 +4,23 @@
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
 [![](https://img.shields.io/twitter/follow/MineralsCloud?style=social)](https://twitter.com/MineralsCloud)
 [![](https://img.shields.io/badge/Contact_Us-green.svg)](mailto:mineralscloud@protonmail.com)
+
+We are a research team at Columbia University in the City of New York.
+Our Principal Investigator is Renata M. Wentzcovitch.
+Our research is devoted to computational quantum mechanical studies of materials at extreme conditions, especially planetary materials. We address electronic, structural, and vibrational properties from a fundamental and inter-related perspective.
+Our current research interests include:
+Mineral physics with applications to geophysics (seismology and geodynamics) and geochemistry (water speciation and isotope fractionation in minerals)
+Materials discovery at (exo)planetary interior conditions
+H2O-ice physics
+Properties of strongly correlated oxides and their crystalline defects
+Spin crossover systems
+Simulations methods development
 
 ### Latest Releases
 

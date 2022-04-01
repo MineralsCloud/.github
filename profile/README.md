@@ -8,13 +8,14 @@
 We are a research team at Columbia University in the City of New York.
 Our Principal Investigator is Renata M. Wentzcovitch.
 Our research is devoted to computational quantum mechanical studies of materials at extreme conditions, especially planetary materials. We address electronic, structural, and vibrational properties from a fundamental and inter-related perspective.
+
 Our current research interests include:
-Mineral physics with applications to geophysics (seismology and geodynamics) and geochemistry (water speciation and isotope fractionation in minerals)
-Materials discovery at (exo)planetary interior conditions
-H2O-ice physics
-Properties of strongly correlated oxides and their crystalline defects
-Spin crossover systems
-Simulations methods development
+- Mineral physics with applications to geophysics (seismology and geodynamics) and geochemistry (water speciation and isotope fractionation in minerals)
+- Materials discovery at (exo)planetary interior conditions
+- H2O-ice physics
+- Properties of strongly correlated oxides and their crystalline defects
+- Spin crossover systems
+- Simulations methods development
 
 ### Latest Releases
 - Express.jl [v0.6.8](https://github.com/MineralsCloud/Express.jl/releases/tag/v0.6.8) ([Source Code](https://github.com/MineralsCloud/Express.jl), released 1 month ago)

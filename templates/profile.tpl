@@ -19,6 +19,9 @@
 {{- range rss "https://github.com/MineralsCloud/Express.jl/releases.atom" 1 }}
 - Express.jl [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/MineralsCloud/Express.jl), released {{ humanize .PublishedAt }})
 {{- end }}
+{{- range rss "https://github.com/MineralsCloud/QuantumESPRESSOBase.jl/releases.atom" 1 }}
+- QuantumESPRESSOBase.jl [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/MineralsCloud/QuantumESPRESSOBase.jl), released {{ humanize .PublishedAt }})
+{{- end }}
 {{- range rss "https://github.com/MineralsCloud/qha/releases.atom" 1 }}
 - qha [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/MineralsCloud/qha), released {{ humanize .PublishedAt }})
 {{- end }}

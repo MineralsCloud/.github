@@ -22,6 +22,9 @@
 {{- range rss "https://github.com/MineralsCloud/QuantumESPRESSOBase.jl/releases.atom" 1 }}
 - QuantumESPRESSOBase.jl [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/MineralsCloud/QuantumESPRESSOBase.jl), released {{ humanize .PublishedAt }})
 {{- end }}
+{{- range rss "https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl/releases.atom" 1 }}
+- EquationsOfStateOfSolids.jl [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl), released {{ humanize .PublishedAt }})
+{{- end }}
 {{- range rss "https://github.com/MineralsCloud/qha/releases.atom" 1 }}
 - qha [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/MineralsCloud/qha), released {{ humanize .PublishedAt }})
 {{- end }}

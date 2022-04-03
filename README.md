@@ -1,5 +1,7 @@
 # .github
 
+[![Update Profile](https://github.com/MineralsCloud/.github/actions/workflows/profile.yaml/badge.svg)](https://github.com/MineralsCloud/.github/actions/workflows/profile.yaml)
+
 This is the profile repo for MineralsCloud Organization.
 
 ## How it works

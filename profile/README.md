@@ -18,8 +18,9 @@ Our current research interests include:
 - Simulations methods development
 
 ### Latest Releases
-- Express.jl [v0.6.8](https://github.com/MineralsCloud/Express.jl/releases/tag/v0.6.8) ([Source Code](https://github.com/MineralsCloud/Express.jl), released 1 month ago)
-- QuantumESPRESSOBase.jl [v0.7.4](https://github.com/MineralsCloud/QuantumESPRESSOBase.jl/releases/tag/v0.7.4) ([Source Code](https://github.com/MineralsCloud/QuantumESPRESSOBase.jl), released 1 day ago)
+- Express.jl [v0.7.0](https://github.com/MineralsCloud/Express.jl/releases/tag/v0.7.0) ([Source Code](https://github.com/MineralsCloud/Express.jl), released today)
+- QuantumESPRESSOExpress.jl [v0.5.3](https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl/releases/tag/v0.5.3) ([Source Code](https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl), released 1 month ago)
+- QuantumESPRESSOBase.jl [v0.7.5](https://github.com/MineralsCloud/QuantumESPRESSOBase.jl/releases/tag/v0.7.5) ([Source Code](https://github.com/MineralsCloud/QuantumESPRESSOBase.jl), released today)
 - EquationsOfStateOfSolids.jl [v0.4.2](https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl/releases/tag/v0.4.2) ([Source Code](https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl), released 2 days ago)
 - qha [v1.0.21 Bug fix and improvements](https://github.com/MineralsCloud/qha/releases/tag/v1.0.21) ([Source Code](https://github.com/MineralsCloud/qha), released 2 months ago)
 - cij [1.0.0-b4](https://github.com/MineralsCloud/cij/releases/tag/1.0.0-b4) ([Source Code](https://github.com/MineralsCloud/cij), released 4 days ago )

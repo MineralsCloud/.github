@@ -28,7 +28,7 @@ Our current research interests include:
 <table border="0">
  <tr>
     <td>{{- range rss "https://github.com/MineralsCloud/Express.jl/releases.atom" 1 }}
-- Express.jl [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/MineralsCloud/Express.jl), released {{ humanize .PublishedAt }})
+- Express.jl <a href="{{ .URL }}">{{ .Title }}</a> (<a href="https://github.com/MineralsCloud/Express.jl">Source Code</a>, released {{ humanize .PublishedAt }})
 {{- end }}</td>
     <td>{{- range rss "https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl/releases.atom" 1 }}
 - QuantumESPRESSOExpress.jl [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl), released {{ humanize .PublishedAt }})

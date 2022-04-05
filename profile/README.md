@@ -17,7 +17,7 @@ Our current research interests include:
 - Spin crossover systems
 - Simulations methods development
 
-### Latest Releases
+### Latest Code Releases
 
 <table border="0">
  <tr>

@@ -23,34 +23,36 @@ Our current research interests include:
 - Spin crossover systems
 - Simulations methods development
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MineralsCloud&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MineralsCloud&langs_count=6" />
-</a>
-
 ### Latest Releases
 
-{{- range rss "https://github.com/MineralsCloud/Express.jl/releases.atom" 1 }}
+<table border="0">
+ <tr>
+    <td>{{- range rss "https://github.com/MineralsCloud/Express.jl/releases.atom" 1 }}
 - Express.jl [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/MineralsCloud/Express.jl), released {{ humanize .PublishedAt }})
-{{- end }}
-{{- range rss "https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl/releases.atom" 1 }}
+{{- end }}</td>
+    <td>{{- range rss "https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl/releases.atom" 1 }}
 - QuantumESPRESSOExpress.jl [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl), released {{ humanize .PublishedAt }})
-{{- end }}
-{{- range rss "https://github.com/MineralsCloud/QuantumESPRESSOBase.jl/releases.atom" 1 }}
+{{- end }}</td>
+ </tr>
+ <tr>
+    <td>{{- range rss "https://github.com/MineralsCloud/QuantumESPRESSOBase.jl/releases.atom" 1 }}
 - QuantumESPRESSOBase.jl [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/MineralsCloud/QuantumESPRESSOBase.jl), released {{ humanize .PublishedAt }})
-{{- end }}
-{{- range rss "https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl/releases.atom" 1 }}
+{{- end }}</td>
+    <td>{{- range rss "https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl/releases.atom" 1 }}
 - EquationsOfStateOfSolids.jl [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl), released {{ humanize .PublishedAt }})
-{{- end }}
-{{- range rss "https://github.com/MineralsCloud/qha/releases.atom" 1 }}
+{{- end }}</td>
+ </tr>
+ <tr>
+    <td>{{- range rss "https://github.com/MineralsCloud/qha/releases.atom" 1 }}
 - qha [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/MineralsCloud/qha), released {{ humanize .PublishedAt }})
-{{- end }}
-{{- range rss "https://github.com/MineralsCloud/cij/releases.atom" 1 }}
+{{- end }}</td>
+    <td>{{- range rss "https://github.com/MineralsCloud/cij/releases.atom" 1 }}
 - cij [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/MineralsCloud/cij), released {{ humanize .PublishedAt }} )
-{{- end }}
-{{- range rss "https://github.com/MineralsCloud/phq/releases.atom" 1 }}
+{{- end }}</td>
+ </tr>
+ <tr>
+    <td>{{- range rss "https://github.com/MineralsCloud/phq/releases.atom" 1 }}
 - phq [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/MineralsCloud/phq), released {{ humanize .PublishedAt }} )
-{{- end }}
+{{- end }}</td>
+ </tr>
+</table>

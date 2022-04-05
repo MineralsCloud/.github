@@ -31,28 +31,28 @@ Our current research interests include:
 - Express.jl <a href="{{ .URL }}">{{ .Title }}</a> (<a href="https://github.com/MineralsCloud/Express.jl">Source Code</a>, released {{ humanize .PublishedAt }})
 {{- end }}</td>
     <td>{{- range rss "https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl/releases.atom" 1 }}
-- QuantumESPRESSOExpress.jl [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl), released {{ humanize .PublishedAt }})
+- QuantumESPRESSOExpress.jl <a href="{{ .URL }}">{{ .Title }}</a> (<a href="https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl">Source Code</a>, released {{ humanize .PublishedAt }})
 {{- end }}</td>
  </tr>
  <tr>
-    <td>{{- range rss "https://github.com/MineralsCloud/QuantumESPRESSOBase.jl/releases.atom" 1 }}
-- QuantumESPRESSOBase.jl [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/MineralsCloud/QuantumESPRESSOBase.jl), released {{ humanize .PublishedAt }})
+     <td>{{- range rss "https://github.com/MineralsCloud/QuantumESPRESSOBase.jl/releases.atom" 1 }}
+- QuantumESPRESSOBase.jl <a href="{{ .URL }}">{{ .Title }}</a> (<a href="https://github.com/MineralsCloud/QuantumESPRESSOBase.jl">Source Code</a>, released {{ humanize .PublishedAt }})
 {{- end }}</td>
-    <td>{{- range rss "https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl/releases.atom" 1 }}
-- EquationsOfStateOfSolids.jl [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl), released {{ humanize .PublishedAt }})
+     <td>{{- range rss "https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl/releases.atom" 1 }}
+- EquationsOfStateOfSolids.jl <a href="{{ .URL }}">{{ .Title }}</a> (<a href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl">Source Code</a>, released {{ humanize .PublishedAt }})
 {{- end }}</td>
  </tr>
  <tr>
     <td>{{- range rss "https://github.com/MineralsCloud/qha/releases.atom" 1 }}
-- qha [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/MineralsCloud/qha), released {{ humanize .PublishedAt }})
+- qha <a href="{{ .URL }}">{{ .Title }}</a> (<a href="https://github.com/MineralsCloud/qha">Source Code</a>, released {{ humanize .PublishedAt }})
 {{- end }}</td>
     <td>{{- range rss "https://github.com/MineralsCloud/cij/releases.atom" 1 }}
-- cij [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/MineralsCloud/cij), released {{ humanize .PublishedAt }} )
+- cij <a href="{{ .URL }}">{{ .Title }}</a> (<a href="https://github.com/MineralsCloud/cij">Source Code</a>, released {{ humanize .PublishedAt }})
 {{- end }}</td>
  </tr>
  <tr>
     <td>{{- range rss "https://github.com/MineralsCloud/phq/releases.atom" 1 }}
-- phq [{{ .Title }}]({{ .URL }}) ([Source Code](https://github.com/MineralsCloud/phq), released {{ humanize .PublishedAt }} )
+- phq <a href="{{ .URL }}">{{ .Title }}</a> (<a href="https://github.com/MineralsCloud/phq">Source Code</a>, released {{ humanize .PublishedAt }})
 {{- end }}</td>
  </tr>
 </table>

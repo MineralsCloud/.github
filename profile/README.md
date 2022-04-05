@@ -17,6 +17,14 @@ Our current research interests include:
 - Spin crossover systems
 - Simulations methods development
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MineralsCloud&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MineralsCloud&langs_count=6" />
+</a>
+
 ### Latest Releases
 - Express.jl [v0.7.0](https://github.com/MineralsCloud/Express.jl/releases/tag/v0.7.0) ([Source Code](https://github.com/MineralsCloud/Express.jl), released today)
 - QuantumESPRESSOExpress.jl [v0.5.3](https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl/releases/tag/v0.5.3) ([Source Code](https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl), released 1 month ago)

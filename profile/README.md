@@ -22,7 +22,7 @@ Our current research interests include:
 <table border="0">
  <tr>
     <td>
-- Express.jl [v0.7.0](https://github.com/MineralsCloud/Express.jl/releases/tag/v0.7.0) ([Source Code](https://github.com/MineralsCloud/Express.jl), released today)</td>
+- Express.jl <a href="https://github.com/MineralsCloud/Express.jl/releases/tag/v0.7.0">v0.7.0</a> (<a href="https://github.com/MineralsCloud/Express.jl">Source Code</a>, released today)</td>
     <td>
 - QuantumESPRESSOExpress.jl [v0.5.3](https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl/releases/tag/v0.5.3) ([Source Code](https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl), released 1 month ago)</td>
  </tr>

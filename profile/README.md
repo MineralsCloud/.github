@@ -22,21 +22,21 @@ Our current research interests include:
 <table border="0">
  <tr>
     <td>
-- Express.jl <a href="https://github.com/MineralsCloud/Express.jl/releases/tag/v0.7.0">v0.7.0</a> (<a href="https://github.com/MineralsCloud/Express.jl">Source Code</a>, released today)</td>
+- Express.jl <a href="https://github.com/MineralsCloud/Express.jl/releases/tag/v0.7.0">v0.7.0</a> (<a href="https://github.com/MineralsCloud/Express.jl">Source Code</a>, released 1 day ago)</td>
     <td>
 - QuantumESPRESSOExpress.jl <a href="https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl/releases/tag/v0.5.3">v0.5.3</a> (<a href="https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl">Source Code</a>, released 1 month ago)</td>
  </tr>
  <tr>
      <td>
-- QuantumESPRESSOBase.jl <a href="https://github.com/MineralsCloud/QuantumESPRESSOBase.jl/releases/tag/v0.7.5">v0.7.5</a> (<a href="https://github.com/MineralsCloud/QuantumESPRESSOBase.jl">Source Code</a>, released today)</td>
+- QuantumESPRESSOBase.jl <a href="https://github.com/MineralsCloud/QuantumESPRESSOBase.jl/releases/tag/v0.7.5">v0.7.5</a> (<a href="https://github.com/MineralsCloud/QuantumESPRESSOBase.jl">Source Code</a>, released 1 day ago)</td>
      <td>
-- EquationsOfStateOfSolids.jl <a href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl/releases/tag/v0.4.2">v0.4.2</a> (<a href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl">Source Code</a>, released 2 days ago)</td>
+- EquationsOfStateOfSolids.jl <a href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl/releases/tag/v0.4.2">v0.4.2</a> (<a href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl">Source Code</a>, released 3 days ago)</td>
  </tr>
  <tr>
     <td>
 - qha <a href="https://github.com/MineralsCloud/qha/releases/tag/v1.0.21">v1.0.21 Bug fix and improvements</a> (<a href="https://github.com/MineralsCloud/qha">Source Code</a>, released 2 months ago)</td>
     <td>
-- cij <a href="https://github.com/MineralsCloud/cij/releases/tag/1.0.0-b4">1.0.0-b4</a> (<a href="https://github.com/MineralsCloud/cij">Source Code</a>, released 4 days ago)</td>
+- cij <a href="https://github.com/MineralsCloud/cij/releases/tag/1.0.0-b4">1.0.0-b4</a> (<a href="https://github.com/MineralsCloud/cij">Source Code</a>, released 5 days ago)</td>
  </tr>
  <tr>
     <td>

@@ -22,9 +22,9 @@ Our current research interests include:
 <table border="0">
  <tr>
     <td>
-- Express.jl <a href="https://github.com/MineralsCloud/Express.jl/releases/tag/v0.7.0">v0.7.0</a> (<a href="https://github.com/MineralsCloud/Express.jl">Source Code</a>, released 1 week ago)</td>
+- Express.jl <a href="https://github.com/MineralsCloud/Express.jl/releases/tag/v0.7.1">v0.7.1</a> (<a href="https://github.com/MineralsCloud/Express.jl">Source Code</a>, released 1 day ago)</td>
     <td>
-- QuantumESPRESSOExpress.jl <a href="https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl/releases/tag/v0.5.3">v0.5.3</a> (<a href="https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl">Source Code</a>, released 2 months ago)</td>
+- QuantumESPRESSOExpress.jl <a href="https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl/releases/tag/v0.5.4">v0.5.4</a> (<a href="https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl">Source Code</a>, released 1 day ago)</td>
  </tr>
  <tr>
      <td>
@@ -36,7 +36,7 @@ Our current research interests include:
     <td>
 - qha <a href="https://github.com/MineralsCloud/qha/releases/tag/v1.0.21">v1.0.21 Bug fix and improvements</a> (<a href="https://github.com/MineralsCloud/qha">Source Code</a>, released 2 months ago)</td>
     <td>
-- cij <a href="https://github.com/MineralsCloud/cij/releases/tag/1.0.0-b4">1.0.0-b4</a> (<a href="https://github.com/MineralsCloud/cij">Source Code</a>, released 1 week ago)</td>
+- cij <a href="https://github.com/MineralsCloud/cij/releases/tag/1.0.0-b4">1.0.0-b4</a> (<a href="https://github.com/MineralsCloud/cij">Source Code</a>, released 2 weeks ago)</td>
  </tr>
  <tr>
     <td>

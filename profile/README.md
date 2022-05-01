@@ -30,13 +30,13 @@ Our current research interests include:
      <td>
 - QuantumESPRESSOBase.jl <a href="https://github.com/MineralsCloud/QuantumESPRESSOBase.jl/releases/tag/v0.7.5">v0.7.5</a> (<a href="https://github.com/MineralsCloud/QuantumESPRESSOBase.jl">Source Code</a>, released 3 weeks ago)</td>
      <td>
-- EquationsOfStateOfSolids.jl <a href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl/releases/tag/v0.4.2">v0.4.2</a> (<a href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl">Source Code</a>, released 3 weeks ago)</td>
+- EquationsOfStateOfSolids.jl <a href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl/releases/tag/v0.4.2">v0.4.2</a> (<a href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl">Source Code</a>, released 4 weeks ago)</td>
  </tr>
  <tr>
     <td>
 - qha <a href="https://github.com/MineralsCloud/qha/releases/tag/v1.0.21">v1.0.21 Bug fix and improvements</a> (<a href="https://github.com/MineralsCloud/qha">Source Code</a>, released 3 months ago)</td>
     <td>
-- cij <a href="https://github.com/MineralsCloud/cij/releases/tag/1.0.0-b4">1.0.0-b4</a> (<a href="https://github.com/MineralsCloud/cij">Source Code</a>, released 4 weeks ago)</td>
+- cij <a href="https://github.com/MineralsCloud/cij/releases/tag/1.0.0-b4">1.0.0-b4</a> (<a href="https://github.com/MineralsCloud/cij">Source Code</a>, released 1 month ago)</td>
  </tr>
  <tr>
     <td>

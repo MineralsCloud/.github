@@ -40,6 +40,6 @@ Our current research interests include:
  </tr>
  <tr>
     <td>
-- phq <a href="https://github.com/MineralsCloud/phq/releases/tag/1.0.0">1.0.0 released!</a> (<a href="https://github.com/MineralsCloud/phq">Source Code</a>, released 2 years ago)</td>
+- phq <a href="https://github.com/MineralsCloud/phq/releases/tag/1.0.0">1.0.0 released!</a> (<a href="https://github.com/MineralsCloud/phq">Source Code</a>, released 3 years ago)</td>
  </tr>
 </table>

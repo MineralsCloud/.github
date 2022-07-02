@@ -30,7 +30,7 @@ Our current research interests include:
      <td>
 - QuantumESPRESSOBase.jl <a href="https://github.com/MineralsCloud/QuantumESPRESSOBase.jl/releases/tag/v0.7.6">v0.7.6</a> (<a href="https://github.com/MineralsCloud/QuantumESPRESSOBase.jl">Source Code</a>, released 1 month ago)</td>
      <td>
-- EquationsOfStateOfSolids.jl <a href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl/releases/tag/v0.4.2">v0.4.2</a> (<a href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl">Source Code</a>, released 2 months ago)</td>
+- EquationsOfStateOfSolids.jl <a href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl/releases/tag/v0.4.2">v0.4.2</a> (<a href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl">Source Code</a>, released 3 months ago)</td>
  </tr>
  <tr>
     <td>

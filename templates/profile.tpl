@@ -54,5 +54,8 @@ Our current research interests include:
     <td>{{- range rss "https://github.com/MineralsCloud/phq/releases.atom" 1 }}
 - phq <a href="{{ .URL }}">{{ .Title }}</a> (<a href="https://github.com/MineralsCloud/phq">Source Code</a>, released {{ humanize .PublishedAt }})
 {{- end }}</td>
+    <td>{{- range rss "https://github.com/MineralsCloud/SimpleWorkflows.jl/releases.atom" 1 }}
+- SimpleWorkflows.jl <a href="{{ .URL }}">{{ .Title }}</a> (<a href="https://github.com/MineralsCloud/SimpleWorkflows.jl">Source Code</a>, released {{ humanize .PublishedAt }})
+{{- end }}</td>
  </tr>
 </table>

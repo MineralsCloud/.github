@@ -22,7 +22,7 @@ Our current research interests include:
 <table border="0">
  <tr>
     <td>
-- Express.jl <a href="https://github.com/MineralsCloud/Express.jl/releases/tag/v0.7.2">v0.7.2</a> (<a href="https://github.com/MineralsCloud/Express.jl">Source Code</a>, released 1 month ago)</td>
+- Express.jl <a href="https://github.com/MineralsCloud/Express.jl/releases/tag/v0.8.0">v0.8.0</a> (<a href="https://github.com/MineralsCloud/Express.jl">Source Code</a>, released 1 day ago)</td>
     <td>
 - QuantumESPRESSOExpress.jl <a href="https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl/releases/tag/v0.5.5">v0.5.5</a> (<a href="https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl">Source Code</a>, released 1 month ago)</td>
  </tr>
@@ -42,6 +42,6 @@ Our current research interests include:
     <td>
 - phq <a href="https://github.com/MineralsCloud/phq/releases/tag/1.0.0">1.0.0 released!</a> (<a href="https://github.com/MineralsCloud/phq">Source Code</a>, released 3 years ago)</td>
     <td>
-- SimpleWorkflows.jl <a href="https://github.com/MineralsCloud/SimpleWorkflows.jl/releases/tag/v0.14.1">v0.14.1</a> (<a href="https://github.com/MineralsCloud/SimpleWorkflows.jl">Source Code</a>, released today)</td>
+- SimpleWorkflows.jl <a href="https://github.com/MineralsCloud/SimpleWorkflows.jl/releases/tag/v0.15.0">v0.15.0</a> (<a href="https://github.com/MineralsCloud/SimpleWorkflows.jl">Source Code</a>, released 1 day ago)</td>
  </tr>
 </table>

@@ -9,7 +9,7 @@
 -->
 
 [![](https://img.shields.io/twitter/follow/MineralsCloud?style=social)](https://twitter.com/MineralsCloud)
-[![](https://img.shields.io/badge/Contact_Us-green.svg)](mailto:mineralscloud@protonmail.com)
+[![](https://img.shields.io/badge/Contact_Us-green.svg)](mailto:mineralscloudcu@gmail.com)
 
 We are a research team at [Columbia University in the City of New York](https://www.columbia.edu/).
 Our Principal Investigator is [Renata M. Wentzcovitch](https://www.apam.columbia.edu/faculty/renata-wentzcovitch).

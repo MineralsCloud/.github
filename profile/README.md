@@ -42,6 +42,6 @@ Our current research interests include:
     <td>
 - phq <a href="https://github.com/MineralsCloud/phq/releases/tag/1.0.0">1.0.0 released!</a> (<a href="https://github.com/MineralsCloud/phq">Source Code</a>, released 3 years ago)</td>
     <td>
-- SimpleWorkflows.jl <a href="https://github.com/MineralsCloud/SimpleWorkflows.jl/releases/tag/v0.16.0">v0.16.0</a> (<a href="https://github.com/MineralsCloud/SimpleWorkflows.jl">Source Code</a>, released 3 weeks ago)</td>
+- SimpleWorkflows.jl <a href="https://github.com/MineralsCloud/SimpleWorkflows.jl/releases/tag/v0.16.0">v0.16.0</a> (<a href="https://github.com/MineralsCloud/SimpleWorkflows.jl">Source Code</a>, released 4 weeks ago)</td>
  </tr>
 </table>

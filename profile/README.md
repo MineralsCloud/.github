@@ -28,7 +28,7 @@ Our current research interests include:
  </tr>
  <tr>
      <td>
-- QuantumESPRESSOBase.jl <a href="https://github.com/MineralsCloud/QuantumESPRESSOBase.jl/releases/tag/v0.7.6">v0.7.6</a> (<a href="https://github.com/MineralsCloud/QuantumESPRESSOBase.jl">Source Code</a>, released 2 months ago)</td>
+- QuantumESPRESSOBase.jl <a href="https://github.com/MineralsCloud/QuantumESPRESSOBase.jl/releases/tag/v0.7.7">v0.7.7</a> (<a href="https://github.com/MineralsCloud/QuantumESPRESSOBase.jl">Source Code</a>, released 1 day ago)</td>
      <td>
 - EquationsOfStateOfSolids.jl <a href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl/releases/tag/v0.4.2">v0.4.2</a> (<a href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl">Source Code</a>, released 4 months ago)</td>
  </tr>
@@ -42,6 +42,6 @@ Our current research interests include:
     <td>
 - phq <a href="https://github.com/MineralsCloud/phq/releases/tag/1.0.0">1.0.0 released!</a> (<a href="https://github.com/MineralsCloud/phq">Source Code</a>, released 3 years ago)</td>
     <td>
-- SimpleWorkflows.jl <a href="https://github.com/MineralsCloud/SimpleWorkflows.jl/releases/tag/v0.16.0">v0.16.0</a> (<a href="https://github.com/MineralsCloud/SimpleWorkflows.jl">Source Code</a>, released 4 weeks ago)</td>
+- SimpleWorkflows.jl <a href="https://github.com/MineralsCloud/SimpleWorkflows.jl/releases/tag/v0.16.0">v0.16.0</a> (<a href="https://github.com/MineralsCloud/SimpleWorkflows.jl">Source Code</a>, released 1 month ago)</td>
  </tr>
 </table>

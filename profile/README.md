@@ -22,13 +22,13 @@ Our current research interests include:
 <table border="0">
  <tr>
     <td>
-- Express.jl <a href="https://github.com/MineralsCloud/Express.jl/releases/tag/v0.9.0">v0.9.0</a> (<a href="https://github.com/MineralsCloud/Express.jl">Source Code</a>, released 3 weeks ago)</td>
+- Express.jl <a href="https://github.com/MineralsCloud/Express.jl/releases/tag/v0.9.0">v0.9.0</a> (<a href="https://github.com/MineralsCloud/Express.jl">Source Code</a>, released 4 weeks ago)</td>
     <td>
 - QuantumESPRESSOExpress.jl <a href="https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl/releases/tag/v0.5.7">v0.5.7</a> (<a href="https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl">Source Code</a>, released 3 weeks ago)</td>
  </tr>
  <tr>
      <td>
-- QuantumESPRESSOBase.jl <a href="https://github.com/MineralsCloud/QuantumESPRESSOBase.jl/releases/tag/v0.7.7">v0.7.7</a> (<a href="https://github.com/MineralsCloud/QuantumESPRESSOBase.jl">Source Code</a>, released 2 days ago)</td>
+- QuantumESPRESSOBase.jl <a href="https://github.com/MineralsCloud/QuantumESPRESSOBase.jl/releases/tag/v0.7.7">v0.7.7</a> (<a href="https://github.com/MineralsCloud/QuantumESPRESSOBase.jl">Source Code</a>, released 3 days ago)</td>
      <td>
 - EquationsOfStateOfSolids.jl <a href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl/releases/tag/v0.4.2">v0.4.2</a> (<a href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl">Source Code</a>, released 4 months ago)</td>
  </tr>

@@ -89,9 +89,9 @@ isotope fractionation in minerals)
             {{ humanize .PublishedAt }})
             {{- end }}
         </td>
-        <td>{{- range rss "https://github.com/MineralsCloud/phdg/releases.atom" 1 }}
+        <td>
             - phdg <a href="{{ .URL }}">{{ .Title }}</a> (<a href="https://github.com/MineralsCloud/phdg">Source
-                Code</a>, released {{ humanize .PublishedAt }})
+                Code</a>)
             {{- end }}
         </td>
     </tr>

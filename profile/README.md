@@ -44,4 +44,7 @@ Our current research interests include:
     <td>
 - SimpleWorkflows.jl <a href="https://github.com/MineralsCloud/SimpleWorkflows.jl/releases/tag/v0.16.0">v0.16.0</a> (<a href="https://github.com/MineralsCloud/SimpleWorkflows.jl">Source Code</a>, released 1 month ago)</td>
  </tr>
+  <tr>
+    <td></td>
+ </tr>
 </table>

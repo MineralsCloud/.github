@@ -90,7 +90,7 @@ isotope fractionation in minerals)
             {{- end }}
         </td>
         <td>
-            - phdg <a href="https://github.com/MineralsCloud/phdg">{{ .Title }}</a> (<a
+            - phdg <a href="https://github.com/MineralsCloud/phdg"></a> (<a
                 href="https://github.com/MineralsCloud/phdg">Source
                 Code</a>)
             {{- end }}

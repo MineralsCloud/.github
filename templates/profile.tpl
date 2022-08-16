@@ -62,5 +62,8 @@ Our current research interests include:
     <td>{{- range rss "https://github.com/MineralsCloud/phdg/releases.atom" 1 }}
 - phdg <a href="{{ .URL }}">{{ .Title }}</a> (<a href="https://github.com/MineralsCloud/phdg">Source Code</a>, released {{ humanize .PublishedAt }})
 {{- end }}</td>
+    <td>{{- range rss "https://github.com/MineralsCloud/CrystallographyBase.jl/releases.atom" 1 }}
+- CrystallographyBase.jl <a href="{{ .URL }}">{{ .Title }}</a> (<a href="https://github.com/MineralsCloud/CrystallographyBase.jl">Source Code</a>, released {{ humanize .PublishedAt }})
+{{- end }}</td>
  </tr>
 </table>

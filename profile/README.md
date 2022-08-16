@@ -70,11 +70,11 @@ isotope fractionation in minerals)
     </tr>
     <tr>
         <td>
-        </td>
-        <td>
             - CrystallographyBase.jl <a href="https://github.com/MineralsCloud/CrystallographyBase.jl/releases/tag/v0.7.0">v0.7.0</a> (<a
                 href="https://github.com/MineralsCloud/CrystallographyBase.jl">Source Code</a>, released
             6 days ago)
+        </td>
+        <td>
         </td>
     </tr>
 </table>

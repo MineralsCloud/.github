@@ -54,7 +54,7 @@ isotope fractionation in minerals)
         </td>
         <td>
             - cij <a href="https://github.com/MineralsCloud/cij/releases/tag/1.0.0-b4">1.0.0-b4</a> (<a href="https://github.com/MineralsCloud/cij">Source Code</a>,
-            released 4 months ago)
+            released 5 months ago)
         </td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@ isotope fractionation in minerals)
         <td>
             - SimpleWorkflows.jl <a href="https://github.com/MineralsCloud/SimpleWorkflows.jl/releases/tag/v0.18.1">v0.18.1</a> (<a
                 href="https://github.com/MineralsCloud/SimpleWorkflows.jl">Source Code</a>, released
-            2 days ago)
+            3 days ago)
         </td>
     </tr>
     <tr>

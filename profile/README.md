@@ -44,7 +44,7 @@ isotope fractionation in minerals)
         <td>
             - EquationsOfStateOfSolids.jl <a href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl/releases/tag/v0.4.2">v0.4.2</a> (<a
                 href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl">Source Code</a>, released
-            4 months ago)
+            5 months ago)
         </td>
     </tr>
     <tr>
@@ -65,14 +65,14 @@ isotope fractionation in minerals)
         <td>
             - SimpleWorkflows.jl <a href="https://github.com/MineralsCloud/SimpleWorkflows.jl/releases/tag/v0.18.1">v0.18.1</a> (<a
                 href="https://github.com/MineralsCloud/SimpleWorkflows.jl">Source Code</a>, released
-            4 days ago)
+            5 days ago)
         </td>
     </tr>
     <tr>
         <td>
             - CrystallographyBase.jl <a href="https://github.com/MineralsCloud/CrystallographyBase.jl/releases/tag/v0.7.0">v0.7.0</a> (<a
                 href="https://github.com/MineralsCloud/CrystallographyBase.jl">Source Code</a>, released
-            2 weeks ago)
+            3 weeks ago)
         </td>
         <td>
         </td>

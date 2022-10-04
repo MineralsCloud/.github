@@ -89,7 +89,11 @@ isotope fractionation in minerals)
             {{ humanize .PublishedAt }})
             {{- end }}
         </td>
-        <td>
+        <td>{{- range rss "https://github.com/MineralsCloud/EasyJobs.jl/releases.atom" 1 }}
+            - EasyJobs.jl <a href="{{ .URL }}">{{ .Title }}</a> (<a
+                href="https://github.com/MineralsCloud/EasyJobs.jl">Source Code</a>, released
+            {{ humanize .PublishedAt }})
+            {{- end }}
         </td>
     </tr>
 </table>

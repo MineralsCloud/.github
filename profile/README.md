@@ -49,8 +49,8 @@ isotope fractionation in minerals)
     </tr>
     <tr>
         <td>
-            - qha <a href="https://github.com/MineralsCloud/qha/releases/tag/v1.0.21">v1.0.21 Bug fix and improvements</a> (<a href="https://github.com/MineralsCloud/qha">Source Code</a>,
-            released 9 months ago)
+            - qha <a href="https://github.com/MineralsCloud/qha/releases/tag/v1.0.22">Remove `seaborn` from deps</a> (<a href="https://github.com/MineralsCloud/qha">Source Code</a>,
+            released 1 day ago)
         </td>
         <td>
             - cij <a href="https://github.com/MineralsCloud/cij/releases/tag/1.0.0-b4">1.0.0-b4</a> (<a href="https://github.com/MineralsCloud/cij">Source Code</a>,

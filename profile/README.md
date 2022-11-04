@@ -39,7 +39,7 @@ isotope fractionation in minerals)
         <td>
             - QuantumESPRESSOBase.jl <a href="https://github.com/MineralsCloud/QuantumESPRESSOBase.jl/releases/tag/v0.7.7">v0.7.7</a> (<a
                 href="https://github.com/MineralsCloud/QuantumESPRESSOBase.jl">Source Code</a>, released
-            2 months ago)
+            3 months ago)
         </td>
         <td>
             - EquationsOfStateOfSolids.jl <a href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl/releases/tag/v0.4.2">v0.4.2</a> (<a
@@ -50,7 +50,7 @@ isotope fractionation in minerals)
     <tr>
         <td>
             - qha <a href="https://github.com/MineralsCloud/qha/releases/tag/v1.0.22">Remove `seaborn` from deps</a> (<a href="https://github.com/MineralsCloud/qha">Source Code</a>,
-            released 3 days ago)
+            released 4 days ago)
         </td>
         <td>
             - cij <a href="https://github.com/MineralsCloud/cij/releases/tag/1.0.0-b4">1.0.0-b4</a> (<a href="https://github.com/MineralsCloud/cij">Source Code</a>,

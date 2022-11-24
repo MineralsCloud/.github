@@ -20,6 +20,14 @@ isotope fractionation in minerals)
 - Spin crossover systems
 - Simulations methods development
 
+### Latest Events
+
+- [Workshop on Computational Ab initio Quantum Thermodynamics (Nov. 28 -- Dec. 1, 2022)](https://github.com/MineralsCloud/WorkshopFall2022)
+- [Bringing Research Excellence To Africa: Omololu Akin-Ojo](http://www.mineralscloud.com/events/)
+- [Materials Simulations in Earth and Planetary Sciences Seminars](https://www.apam.columbia.edu/materials-simulations-earth-and-planetary-sciences-seminars)
+- [International Workshop on Recent Developments in Electronic Structure Methods (ES22)](https://www.apam.columbia.edu/international-workshop-recent-developments-electronic-structure-es22-1)
+- [2022 US-Africa Initiative in Electronic Structure Workshop](https://usafricainitiative.org/MayWorkshop2022/)
+
 ### Latest Code Releases
 
 <table border="0">

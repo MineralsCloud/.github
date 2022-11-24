@@ -20,6 +20,10 @@ isotope fractionation in minerals)
 - Spin crossover systems
 - Simulations methods development
 
+### Latest Events
+
+- [Workshop on Computational Ab initio Quantum Thermodynamics (Nov. 28 -- Dec. 1, 2022)](https://github.com/MineralsCloud/WorkshopFall2022)
+
 ### Latest Code Releases
 
 <table border="0">

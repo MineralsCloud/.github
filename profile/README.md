@@ -35,10 +35,10 @@ isotope fractionation in minerals)
         <td>
             - Express.jl <a href="https://github.com/MineralsCloud/Express.jl/releases/tag/v0.9.2">v0.9.2</a> (<a
                 href="https://github.com/MineralsCloud/Express.jl">Source Code</a>, released
-            1 day ago)
+            2 days ago)
         </td>
         <td>
-            - QuantumESPRESSOExpress.jl <a href="https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl/releases/tag/v0.5.8">v0.5.8</a> (<a
+            - QuantumESPRESSOExpress.jl <a href="https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl/releases/tag/v0.5.9">v0.5.9</a> (<a
                 href="https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl">Source Code</a>, released
             1 day ago)
         </td>
@@ -73,7 +73,7 @@ isotope fractionation in minerals)
         <td>
             - SimpleWorkflows.jl <a href="https://github.com/MineralsCloud/SimpleWorkflows.jl/releases/tag/v0.16.2">v0.16.2</a> (<a
                 href="https://github.com/MineralsCloud/SimpleWorkflows.jl">Source Code</a>, released
-            1 day ago)
+            2 days ago)
         </td>
     </tr>
     <tr>
@@ -85,7 +85,7 @@ isotope fractionation in minerals)
         <td>
             - EasyJobs.jl <a href="https://github.com/MineralsCloud/EasyJobs.jl/releases/tag/v0.3.0">v0.3.0</a> (<a
                 href="https://github.com/MineralsCloud/EasyJobs.jl">Source Code</a>, released
-            6 days ago)
+            1 week ago)
         </td>
     </tr>
 </table>

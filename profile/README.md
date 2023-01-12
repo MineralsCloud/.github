@@ -78,9 +78,9 @@ isotope fractionation in minerals)
     </tr>
     <tr>
         <td>
-            - CrystallographyBase.jl <a href="https://github.com/MineralsCloud/CrystallographyBase.jl/releases/tag/v0.7.0">v0.7.0</a> (<a
+            - CrystallographyBase.jl <a href="https://github.com/MineralsCloud/CrystallographyBase.jl/releases/tag/v0.7.1">v0.7.1</a> (<a
                 href="https://github.com/MineralsCloud/CrystallographyBase.jl">Source Code</a>, released
-            5 months ago)
+            1 day ago)
         </td>
         <td>
             - EasyJobs.jl <a href="https://github.com/MineralsCloud/EasyJobs.jl/releases/tag/v0.3.0">v0.3.0</a> (<a

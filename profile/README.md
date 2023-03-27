@@ -62,7 +62,7 @@ isotope fractionation in minerals)
         </td>
         <td>
             - cij <a href="https://github.com/MineralsCloud/cij/releases/tag/1.0.0-b4">1.0.0-b4</a> (<a href="https://github.com/MineralsCloud/cij">Source Code</a>,
-            released 11 months ago)
+            released 1 year ago)
         </td>
     </tr>
     <tr>

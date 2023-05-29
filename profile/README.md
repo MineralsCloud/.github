@@ -40,7 +40,7 @@ isotope fractionation in minerals)
         <td>
             - QuantumESPRESSOExpress.jl <a href="https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl/releases/tag/v0.5.9">v0.5.9</a> (<a
                 href="https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl">Source Code</a>, released
-            5 months ago)
+            6 months ago)
         </td>
     </tr>
     <tr>
@@ -58,7 +58,7 @@ isotope fractionation in minerals)
     <tr>
         <td>
             - qha <a href="https://github.com/MineralsCloud/qha/releases/tag/v1.0.22">Remove `seaborn` from deps</a> (<a href="https://github.com/MineralsCloud/qha">Source Code</a>,
-            released 6 months ago)
+            released 7 months ago)
         </td>
         <td>
             - cij <a href="https://github.com/MineralsCloud/cij/releases/tag/1.0.0-b4">1.0.0-b4</a> (<a href="https://github.com/MineralsCloud/cij">Source Code</a>,
@@ -85,7 +85,7 @@ isotope fractionation in minerals)
         <td>
             - EasyJobs.jl <a href="https://github.com/MineralsCloud/EasyJobs.jl/releases/tag/v0.5.0">v0.5.0</a> (<a
                 href="https://github.com/MineralsCloud/EasyJobs.jl">Source Code</a>, released
-            5 days ago)
+            6 days ago)
         </td>
     </tr>
 </table>

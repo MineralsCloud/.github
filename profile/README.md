@@ -47,7 +47,7 @@ isotope fractionation in minerals)
         <td>
             - QuantumESPRESSOBase.jl <a href="https://github.com/MineralsCloud/QuantumESPRESSOBase.jl/releases/tag/v0.11.0">v0.11.0</a> (<a
                 href="https://github.com/MineralsCloud/QuantumESPRESSOBase.jl">Source Code</a>, released
-            4 weeks ago)
+            1 month ago)
         </td>
         <td>
             - EquationsOfStateOfSolids.jl <a href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl/releases/tag/v0.4.2">v0.4.2</a> (<a
@@ -80,7 +80,7 @@ isotope fractionation in minerals)
         <td>
             - CrystallographyBase.jl <a href="https://github.com/MineralsCloud/CrystallographyBase.jl/releases/tag/v0.10.1">v0.10.1</a> (<a
                 href="https://github.com/MineralsCloud/CrystallographyBase.jl">Source Code</a>, released
-            6 days ago)
+            1 week ago)
         </td>
         <td>
             - EasyJobs.jl <a href="https://github.com/MineralsCloud/EasyJobs.jl/releases/tag/v0.8.0">v0.8.0</a> (<a

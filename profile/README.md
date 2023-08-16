@@ -67,8 +67,8 @@ isotope fractionation in minerals)
     </tr>
     <tr>
         <td>
-            - phq <a href="https://github.com/MineralsCloud/phq/releases/tag/1.0.0">1.0.0 released!</a> (<a href="https://github.com/MineralsCloud/phq">Source Code</a>,
-            released 4 years ago)
+            - phq <a href="https://github.com/MineralsCloud/phq/releases/tag/1.0.0">v1.0.0</a> (<a href="https://github.com/MineralsCloud/phq">Source Code</a>,
+            released 1 day ago)
         </td>
         <td>
             - SimpleWorkflows.jl <a href="https://github.com/MineralsCloud/SimpleWorkflows.jl/releases/tag/v0.28.0">v0.28.0</a> (<a
@@ -78,9 +78,9 @@ isotope fractionation in minerals)
     </tr>
     <tr>
         <td>
-            - CrystallographyBase.jl <a href="https://github.com/MineralsCloud/CrystallographyBase.jl/releases/tag/v0.11.0">v0.11.0</a> (<a
+            - CrystallographyBase.jl <a href="https://github.com/MineralsCloud/CrystallographyBase.jl/releases/tag/v0.12.0">v0.12.0</a> (<a
                 href="https://github.com/MineralsCloud/CrystallographyBase.jl">Source Code</a>, released
-            2 weeks ago)
+            1 day ago)
         </td>
         <td>
             - EasyJobs.jl <a href="https://github.com/MineralsCloud/EasyJobs.jl/releases/tag/v0.9.1">v0.9.1</a> (<a

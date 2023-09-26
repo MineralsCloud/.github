@@ -40,7 +40,7 @@ isotope fractionation in minerals)
         <td>
             - QuantumESPRESSOExpress.jl <a href="https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl/releases/tag/v0.5.9">v0.5.9</a> (<a
                 href="https://github.com/MineralsCloud/QuantumESPRESSOExpress.jl">Source Code</a>, released
-            9 months ago)
+            10 months ago)
         </td>
     </tr>
     <tr>

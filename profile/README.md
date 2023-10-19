@@ -89,7 +89,3 @@ isotope fractionation in minerals)
         </td>
     </tr>
 </table>
-
-## Metrics
-
-<img align="center" src="../github-metrics.svg" alt="Metrics" width="400">

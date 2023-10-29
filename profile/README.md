@@ -47,7 +47,7 @@ isotope fractionation in minerals)
         <td>
             - QuantumESPRESSOBase.jl <a href="https://github.com/MineralsCloud/QuantumESPRESSOBase.jl/releases/tag/v0.12.0">v0.12.0</a> (<a
                 href="https://github.com/MineralsCloud/QuantumESPRESSOBase.jl">Source Code</a>, released
-            2 days ago)
+            3 days ago)
         </td>
         <td>
             - EquationsOfStateOfSolids.jl <a href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl/releases/tag/v0.4.2">v0.4.2</a> (<a
@@ -73,19 +73,19 @@ isotope fractionation in minerals)
         <td>
             - SimpleWorkflows.jl <a href="https://github.com/MineralsCloud/SimpleWorkflows.jl/releases/tag/v0.29.0">v0.29.0</a> (<a
                 href="https://github.com/MineralsCloud/SimpleWorkflows.jl">Source Code</a>, released
-            3 days ago)
+            4 days ago)
         </td>
     </tr>
     <tr>
         <td>
-            - CrystallographyBase.jl <a href="https://github.com/MineralsCloud/CrystallographyBase.jl/releases/tag/v0.14.2">v0.14.2</a> (<a
+            - CrystallographyBase.jl <a href="https://github.com/MineralsCloud/CrystallographyBase.jl/releases/tag/v0.14.3">v0.14.3</a> (<a
                 href="https://github.com/MineralsCloud/CrystallographyBase.jl">Source Code</a>, released
-            1 week ago)
+            1 day ago)
         </td>
         <td>
             - EasyJobs.jl <a href="https://github.com/MineralsCloud/EasyJobs.jl/releases/tag/v0.10.0">v0.10.0</a> (<a
                 href="https://github.com/MineralsCloud/EasyJobs.jl">Source Code</a>, released
-            3 days ago)
+            4 days ago)
         </td>
     </tr>
 </table>

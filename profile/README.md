@@ -73,7 +73,7 @@ isotope fractionation in minerals)
         <td>
             - SimpleWorkflows.jl <a href="https://github.com/MineralsCloud/SimpleWorkflows.jl/releases/tag/v0.29.0">v0.29.0</a> (<a
                 href="https://github.com/MineralsCloud/SimpleWorkflows.jl">Source Code</a>, released
-            1 month ago)
+            2 months ago)
         </td>
     </tr>
     <tr>
@@ -85,7 +85,7 @@ isotope fractionation in minerals)
         <td>
             - EasyJobs.jl <a href="https://github.com/MineralsCloud/EasyJobs.jl/releases/tag/v0.10.0">v0.10.0</a> (<a
                 href="https://github.com/MineralsCloud/EasyJobs.jl">Source Code</a>, released
-            1 month ago)
+            2 months ago)
         </td>
     </tr>
 </table>

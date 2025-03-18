@@ -52,7 +52,7 @@ isotope fractionation in minerals)
         <td>
             - EquationsOfStateOfSolids.jl <a href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl/releases/tag/v0.4.2">v0.4.2</a> (<a
                 href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl">Source Code</a>, released
-            2 years ago)
+            3 years ago)
         </td>
     </tr>
     <tr>

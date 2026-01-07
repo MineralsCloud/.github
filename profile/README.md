@@ -58,11 +58,11 @@ isotope fractionation in minerals)
     <tr>
         <td>
             - qha <a href="https://github.com/MineralsCloud/qha/releases/tag/v1.1.0">v1.1.0</a> (<a href="https://github.com/MineralsCloud/qha">Source Code</a>,
-            released 5 months ago)
+            released 6 months ago)
         </td>
         <td>
             - cij <a href="https://github.com/MineralsCloud/cij/releases/tag/v1.1.0">Release 1.1.0</a> (<a href="https://github.com/MineralsCloud/cij">Source Code</a>,
-            released 3 weeks ago)
+            released 4 weeks ago)
         </td>
     </tr>
     <tr>

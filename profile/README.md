@@ -58,7 +58,7 @@ isotope fractionation in minerals)
     <tr>
         <td>
             - qha <a href="https://github.com/MineralsCloud/qha/releases/tag/v1.1.3">v1.1.3</a> (<a href="https://github.com/MineralsCloud/qha">Source Code</a>,
-            released 6 days ago)
+            released 1 week ago)
         </td>
         <td>
             - cij <a href="https://github.com/MineralsCloud/cij/releases/tag/v1.1.0">Release 1.1.0</a> (<a href="https://github.com/MineralsCloud/cij">Source Code</a>,
@@ -80,7 +80,7 @@ isotope fractionation in minerals)
         <td>
             - CrystallographyBase.jl <a href="https://github.com/MineralsCloud/CrystallographyBase.jl/releases/tag/v0.15.0">v0.15.0</a> (<a
                 href="https://github.com/MineralsCloud/CrystallographyBase.jl">Source Code</a>, released
-            3 months ago)
+            4 months ago)
         </td>
         <td>
             - EasyJobs.jl <a href="https://github.com/MineralsCloud/EasyJobs.jl/releases/tag/v0.10.0">v0.10.0</a> (<a

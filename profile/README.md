@@ -62,13 +62,13 @@ isotope fractionation in minerals)
         </td>
         <td>
             - cij <a href="https://github.com/MineralsCloud/cij/releases/tag/v1.1.0">Release 1.1.0</a> (<a href="https://github.com/MineralsCloud/cij">Source Code</a>,
-            released 8 months ago)
+            released 9 months ago)
         </td>
     </tr>
     <tr>
         <td>
-            - phq <a href="https://github.com/MineralsCloud/phq/releases/tag/1.0.0">v1.0.0</a> (<a href="https://github.com/MineralsCloud/phq">Source Code</a>,
-            released 3 years ago)
+            - phq <a href="https://github.com/MineralsCloud/phq/releases/tag/v1.0.0">v1.0.0</a> (<a href="https://github.com/MineralsCloud/phq">Source Code</a>,
+            released 1 day ago)
         </td>
         <td>
             - SimpleWorkflows.jl <a href="https://github.com/MineralsCloud/SimpleWorkflows.jl/releases/tag/v0.29.0">v0.29.0</a> (<a

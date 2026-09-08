@@ -68,7 +68,7 @@ isotope fractionation in minerals)
     <tr>
         <td>
             - phq <a href="https://github.com/MineralsCloud/phq/releases/tag/v1.0.0">v1.0.0</a> (<a href="https://github.com/MineralsCloud/phq">Source Code</a>,
-            released 2 days ago)
+            released 3 days ago)
         </td>
         <td>
             - SimpleWorkflows.jl <a href="https://github.com/MineralsCloud/SimpleWorkflows.jl/releases/tag/v0.29.0">v0.29.0</a> (<a
